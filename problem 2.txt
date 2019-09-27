@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace Rextester
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            int i,sum=0;
+
+            Console.WriteLine("enter your number of elements:");
+            int number=Convert.ToInt32(Console.ReadLine());
+	    int []numberList=new int[number];
+
+            for(i=1,i<=number;i++)
+            {    
+                Console.WriteLine("enter your number:");
+                numberList[i]=Convert.ToInt32(Console.ReadLine());
+                sum=sum+numberList[i];
+            } 
+
+           int avarage=GetAvarage(sum );
+	   Console.WritwLine(avarage);
+           Console.ReadKey(); 
+        }
+        static int GetAvarage(int sum1)
+        {
+           
+           int avarage=sum1/number;
+           return avarage;
+        }
+       
+    }
+}
