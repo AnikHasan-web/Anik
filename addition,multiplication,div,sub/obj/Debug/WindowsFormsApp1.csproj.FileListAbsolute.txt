@@ -1,0 +1,4 @@
+C:\Users\Web App Develop .Net\Desktop\anik\day-4\a\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\anik\day-4\a\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\anik\day-4\a\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\anik\day-4\a\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
