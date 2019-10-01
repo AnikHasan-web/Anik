@@ -33,7 +33,7 @@ namespace simple_Interest_Calculator
             timeComboBox.Items.Add("days(365/Yr)");
             timeComboBox.Items.Add("days(360/Yr)");
             timeComboBox.Items.Add("weeks");
-            timeComboBox.Items.Add("momths");
+            timeComboBox.Items.Add("months");
             timeComboBox.Items.Add("quarters");
             timeComboBox.Items.Add("years");
         }
@@ -51,10 +51,12 @@ namespace simple_Interest_Calculator
             if ((equationComboBox.SelectedItem=="Total P+1 (A)") || (equationComboBox.SelectedItem == "Principal (P)") || (equationComboBox.SelectedItem == "Rate (R)"))
             {
                 timeComboBox.Visible = true;
+                label4.Visible = true;
             }
             else
             {
                 timeComboBox.Visible = false;
+                label4.Visible = false;
             }
             ///////////////////////////////////////////////////////////////////////
             string equation = equationComboBox.Text;
@@ -121,6 +123,7 @@ namespace simple_Interest_Calculator
                     double r = R / 100;
                     if (timeComboBox.Text == "days(365/Yr)")
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 365;
                         double A = P * (1 + r * t);
@@ -128,6 +131,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "days(360/Yr)")
                     {
+                       
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 360;
                         double A = P * (1 + r * t);
@@ -135,6 +139,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "weeks")
                     {
+                       
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 52;
                         double A = P * (1 + r * t);
@@ -142,6 +147,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "months")
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 12;
                         double A = P * (1 + r * t);
@@ -149,6 +155,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "quarters")
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 4;
                         double A = P * (1 + r * t);
@@ -156,6 +163,7 @@ namespace simple_Interest_Calculator
                     }
                     else
                     {
+                       
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time;
                         double A = P * (1 + r * t);
@@ -170,6 +178,7 @@ namespace simple_Interest_Calculator
                     double r = R / 100;
                     if (timeComboBox.Text == "days(365/Yr)")
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 365;
                         double P = A / (1 + r * t);
@@ -177,6 +186,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "days(360/Yr)")
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 360;
                         double P = A / (1 + r * t);
@@ -184,6 +194,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "weeks")
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 52;
                         double P = A / (1 + r * t);
@@ -191,6 +202,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "months")
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 12;
                         double P = A / (1 + r * t);
@@ -198,6 +210,7 @@ namespace simple_Interest_Calculator
                     }
                     else if (timeComboBox.Text == "quarters")
                     {
+                       
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time / 4;
                         double P = A / (1 + r * t);
@@ -205,6 +218,7 @@ namespace simple_Interest_Calculator
                     }
                     else
                     {
+                        
                         double time = Convert.ToDouble(TextBox3.Text);
                         double t = time;
                         double P = A / (1 + r * t);
@@ -288,6 +302,22 @@ namespace simple_Interest_Calculator
             TextBox2.Text = " ";
             TextBox3.Text = " ";
 
+        }
+
+        private void timeComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (timeComboBox.Text == "days(365/Yr)")
+                label4.Text = "per days(365/Yr)";
+            else if (timeComboBox.Text == "days(360/Yr)")
+                label4.Text = "per days(360/Yr)";
+            else if (timeComboBox.Text == "weeks")
+                label4.Text = "per weeks";
+            else if (timeComboBox.Text == "months")
+                label4.Text = "per months";
+            else if (timeComboBox.Text == "quarters")
+                label4.Text = "per quarters";
+            else
+                label4.Text = "per year";
         }
 
         
