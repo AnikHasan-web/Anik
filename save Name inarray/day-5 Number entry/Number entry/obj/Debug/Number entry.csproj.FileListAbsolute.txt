@@ -1,0 +1,10 @@
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\bin\Debug\Number entry.exe.config
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\bin\Debug\Number entry.exe
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\bin\Debug\Number entry.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\obj\Debug\Number entry.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\obj\Debug\Number_entry.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\obj\Debug\Number_entry.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\obj\Debug\Number entry.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\obj\Debug\Number entry.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\obj\Debug\Number entry.exe
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5 Number entry\Number entry\obj\Debug\Number entry.pdb

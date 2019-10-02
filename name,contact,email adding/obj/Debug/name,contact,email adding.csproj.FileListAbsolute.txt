@@ -1,0 +1,10 @@
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\obj\Debug\name,contact,email adding.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\obj\Debug\name_contact_email_adding.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\obj\Debug\name_contact_email_adding.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\obj\Debug\name,contact,email adding.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\obj\Debug\name,contact,email adding.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\bin\Debug\name,contact,email adding.exe.config
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\bin\Debug\name,contact,email adding.exe
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\bin\Debug\name,contact,email adding.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\obj\Debug\name,contact,email adding.exe
+C:\Users\Web App Develop .Net\Desktop\anik\name,contact,email add\name,contact,email adding\obj\Debug\name,contact,email adding.pdb
