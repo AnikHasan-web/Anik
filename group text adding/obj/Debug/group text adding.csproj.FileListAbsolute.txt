@@ -1,0 +1,19 @@
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\obj\Debug\group text adding.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\obj\Debug\group_text_adding.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\obj\Debug\group_text_adding.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\obj\Debug\group text adding.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\obj\Debug\group text adding.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\bin\Debug\group text adding.exe.config
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\bin\Debug\group text adding.exe
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\bin\Debug\group text adding.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\obj\Debug\group text adding.exe
+C:\Users\Web App Develop .Net\Desktop\anik\group text adding\group text adding\obj\Debug\group text adding.pdb
+D:\dot net\anik\lab 5\group text adding\bin\Debug\group text adding.exe.config
+D:\dot net\anik\lab 5\group text adding\obj\Debug\group text adding.exe
+D:\dot net\anik\lab 5\group text adding\obj\Debug\group text adding.pdb
+D:\dot net\anik\lab 5\group text adding\obj\Debug\group text adding.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 5\group text adding\obj\Debug\group_text_adding.Form1.resources
+D:\dot net\anik\lab 5\group text adding\obj\Debug\group_text_adding.Properties.Resources.resources
+D:\dot net\anik\lab 5\group text adding\obj\Debug\group text adding.csproj.GenerateResource.Cache
+D:\dot net\anik\lab 5\group text adding\bin\Debug\group text adding.exe
+D:\dot net\anik\lab 5\group text adding\bin\Debug\group text adding.pdb
