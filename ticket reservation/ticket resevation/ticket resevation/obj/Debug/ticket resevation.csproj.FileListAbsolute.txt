@@ -1,0 +1,9 @@
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\bin\Debug\ticket resevation.exe.config
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\bin\Debug\ticket resevation.exe
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\bin\Debug\ticket resevation.pdb
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\obj\Debug\ticket resevation.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\obj\Debug\ticket_resevation.PurchaseTicketUi.resources
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\obj\Debug\ticket_resevation.Properties.Resources.resources
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\obj\Debug\ticket resevation.csproj.GenerateResource.Cache
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\obj\Debug\ticket resevation.exe
+D:\dot net\anik\lab 4\ticket reservation\ticket resevation\ticket resevation\obj\Debug\ticket resevation.pdb
