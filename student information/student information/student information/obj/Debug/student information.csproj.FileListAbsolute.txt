@@ -1,0 +1,6 @@
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information\student information\bin\Debug\student information.exe.config
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information\student information\bin\Debug\student information.exe
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information\student information\bin\Debug\student information.pdb
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information\student information\obj\Debug\student information.csprojResolveAssemblyReference.cache
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information\student information\obj\Debug\student information.exe
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information\student information\obj\Debug\student information.pdb

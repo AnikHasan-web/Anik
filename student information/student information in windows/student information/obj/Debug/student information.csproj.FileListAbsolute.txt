@@ -1,0 +1,9 @@
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\bin\Debug\student information.exe.config
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\bin\Debug\student information.exe
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\bin\Debug\student information.pdb
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\obj\Debug\student information.csprojResolveAssemblyReference.cache
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\obj\Debug\student_information.StudentForm.resources
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\obj\Debug\student_information.Properties.Resources.resources
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\obj\Debug\student information.csproj.GenerateResource.Cache
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\obj\Debug\student information.exe
+C:\Users\Anik Hasan\Desktop\New folder\student information\student information in windows\student information\student information\obj\Debug\student information.pdb
