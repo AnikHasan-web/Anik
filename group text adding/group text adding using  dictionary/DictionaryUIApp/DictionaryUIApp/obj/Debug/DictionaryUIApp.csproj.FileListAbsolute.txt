@@ -1,0 +1,19 @@
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe.config
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.pdb
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csprojAssemblyReference.cache
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Form1.resources
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Properties.Resources.resources
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csproj.GenerateResource.cache
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csproj.CoreCompileInputs.cache
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.exe
+C:\Users\mdraf\source\repos\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.pdb
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe.config
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.exe
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.pdb
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Form1.resources
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.Properties.Resources.resources
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\obj\Debug\DictionaryUIApp.csproj.GenerateResource.Cache
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.exe
+D:\dot net\anik\lab 5\group text adding using  dictionary\DictionaryUIApp\DictionaryUIApp\bin\Debug\DictionaryUIApp.pdb
