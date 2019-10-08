@@ -1,0 +1,9 @@
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\bin\Debug\simple Interest Calculator.exe.config
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\bin\Debug\simple Interest Calculator.exe
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\bin\Debug\simple Interest Calculator.pdb
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\obj\Debug\simple Interest Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\obj\Debug\simple_Interest_Calculator.Properties.Resources.resources
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\obj\Debug\simple Interest Calculator.csproj.GenerateResource.Cache
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\obj\Debug\simple Interest Calculator.exe
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\obj\Debug\simple Interest Calculator.pdb
+C:\Users\Anik Hasan\Desktop\New folder\simple Interest Calculator\simple Interest Calculator\obj\Debug\simple_Interest_Calculator.CalculatorForm.resources
