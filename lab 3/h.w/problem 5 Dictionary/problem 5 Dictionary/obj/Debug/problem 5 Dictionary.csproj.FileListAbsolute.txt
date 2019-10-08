@@ -1,0 +1,6 @@
+D:\dot net\anik\lab 3\problem 5 Dictionary\problem 5 Dictionary\bin\Debug\problem 5 Dictionary.exe.config
+D:\dot net\anik\lab 3\problem 5 Dictionary\problem 5 Dictionary\bin\Debug\problem 5 Dictionary.exe
+D:\dot net\anik\lab 3\problem 5 Dictionary\problem 5 Dictionary\bin\Debug\problem 5 Dictionary.pdb
+D:\dot net\anik\lab 3\problem 5 Dictionary\problem 5 Dictionary\obj\Debug\problem 5 Dictionary.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 3\problem 5 Dictionary\problem 5 Dictionary\obj\Debug\problem 5 Dictionary.exe
+D:\dot net\anik\lab 3\problem 5 Dictionary\problem 5 Dictionary\obj\Debug\problem 5 Dictionary.pdb
