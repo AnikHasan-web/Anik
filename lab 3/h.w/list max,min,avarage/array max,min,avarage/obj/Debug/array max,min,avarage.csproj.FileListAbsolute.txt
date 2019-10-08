@@ -1,0 +1,6 @@
+D:\dot net\anik\lab 6\array max,min,avarage\array max,min,avarage\bin\Debug\array max,min,avarage.exe.config
+D:\dot net\anik\lab 6\array max,min,avarage\array max,min,avarage\bin\Debug\array max,min,avarage.exe
+D:\dot net\anik\lab 6\array max,min,avarage\array max,min,avarage\bin\Debug\array max,min,avarage.pdb
+D:\dot net\anik\lab 6\array max,min,avarage\array max,min,avarage\obj\Debug\array max,min,avarage.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 6\array max,min,avarage\array max,min,avarage\obj\Debug\array max,min,avarage.exe
+D:\dot net\anik\lab 6\array max,min,avarage\array max,min,avarage\obj\Debug\array max,min,avarage.pdb

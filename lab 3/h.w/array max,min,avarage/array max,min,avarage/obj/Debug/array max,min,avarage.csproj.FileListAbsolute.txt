@@ -1,0 +1,5 @@
+D:\dot net\anik\lab 3\h.w\array max,min,avarage\array max,min,avarage\bin\Debug\array max,min,avarage.exe.config
+D:\dot net\anik\lab 3\h.w\array max,min,avarage\array max,min,avarage\bin\Debug\array max,min,avarage.exe
+D:\dot net\anik\lab 3\h.w\array max,min,avarage\array max,min,avarage\bin\Debug\array max,min,avarage.pdb
+D:\dot net\anik\lab 3\h.w\array max,min,avarage\array max,min,avarage\obj\Debug\array max,min,avarage.exe
+D:\dot net\anik\lab 3\h.w\array max,min,avarage\array max,min,avarage\obj\Debug\array max,min,avarage.pdb

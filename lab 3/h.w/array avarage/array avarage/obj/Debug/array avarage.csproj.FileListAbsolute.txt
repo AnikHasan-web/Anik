@@ -1,0 +1,6 @@
+D:\dot net\anik\lab 3\h.w\array avarage\array avarage\bin\Debug\array avarage.exe.config
+D:\dot net\anik\lab 3\h.w\array avarage\array avarage\bin\Debug\array avarage.exe
+D:\dot net\anik\lab 3\h.w\array avarage\array avarage\bin\Debug\array avarage.pdb
+D:\dot net\anik\lab 3\h.w\array avarage\array avarage\obj\Debug\array avarage.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 3\h.w\array avarage\array avarage\obj\Debug\array avarage.exe
+D:\dot net\anik\lab 3\h.w\array avarage\array avarage\obj\Debug\array avarage.pdb

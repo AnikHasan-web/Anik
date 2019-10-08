@@ -1,0 +1,6 @@
+D:\dot net\anik\lab 3\h.w\grading system\grading system\bin\Debug\grading system.exe.config
+D:\dot net\anik\lab 3\h.w\grading system\grading system\bin\Debug\grading system.exe
+D:\dot net\anik\lab 3\h.w\grading system\grading system\bin\Debug\grading system.pdb
+D:\dot net\anik\lab 3\h.w\grading system\grading system\obj\Debug\grading system.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 3\h.w\grading system\grading system\obj\Debug\grading system.exe
+D:\dot net\anik\lab 3\h.w\grading system\grading system\obj\Debug\grading system.pdb
