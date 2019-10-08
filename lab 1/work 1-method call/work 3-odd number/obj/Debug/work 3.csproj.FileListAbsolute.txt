@@ -1,0 +1,7 @@
+C:\Users\Web App Develop .Net\Desktop\anik\work 3\work 3\obj\Debug\work 3.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\anik\work 3\work 3\obj\Debug\work 3.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\anik\work 3\work 3\bin\Debug\work 3.exe.config
+C:\Users\Web App Develop .Net\Desktop\anik\work 3\work 3\bin\Debug\work 3.exe
+C:\Users\Web App Develop .Net\Desktop\anik\work 3\work 3\bin\Debug\work 3.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\work 3\work 3\obj\Debug\work 3.exe
+C:\Users\Web App Develop .Net\Desktop\anik\work 3\work 3\obj\Debug\work 3.pdb
