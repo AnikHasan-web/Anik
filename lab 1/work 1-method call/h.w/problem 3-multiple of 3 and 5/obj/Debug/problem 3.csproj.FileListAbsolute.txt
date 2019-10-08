@@ -1,0 +1,7 @@
+C:\Users\Web App Develop .Net\Desktop\anik\problem 3\bin\Debug\problem 3.exe.config
+C:\Users\Web App Develop .Net\Desktop\anik\problem 3\bin\Debug\problem 3.exe
+C:\Users\Web App Develop .Net\Desktop\anik\problem 3\bin\Debug\problem 3.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\problem 3\obj\Debug\problem 3.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\anik\problem 3\obj\Debug\problem 3.exe
+C:\Users\Web App Develop .Net\Desktop\anik\problem 3\obj\Debug\problem 3.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\problem 3\obj\Debug\problem 3.csprojAssemblyReference.cache
