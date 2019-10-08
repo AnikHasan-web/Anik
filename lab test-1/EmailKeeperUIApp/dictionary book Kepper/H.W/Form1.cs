@@ -104,7 +104,8 @@ namespace H.W
                  {
                      foreach(string data in bookDetails.Values)
                      {
-                         if (data.ToLower().Contains(bookName))
+                         string name=data.ToLower();
+                         if (name.Contains(bookName))
                          {
                              searchListBox.Items.Add(data);
                              searchTextBox.Clear();
