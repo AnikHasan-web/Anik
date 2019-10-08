@@ -1,0 +1,7 @@
+C:\Phase 2\Batch 9\Day 2\MethodChallangeSolution\MethodChallangeSolution\bin\Debug\MethodChallangeSolution.exe.config
+C:\Phase 2\Batch 9\Day 2\MethodChallangeSolution\MethodChallangeSolution\bin\Debug\MethodChallangeSolution.exe
+C:\Phase 2\Batch 9\Day 2\MethodChallangeSolution\MethodChallangeSolution\bin\Debug\MethodChallangeSolution.pdb
+C:\Phase 2\Batch 9\Day 2\MethodChallangeSolution\MethodChallangeSolution\obj\Debug\MethodChallangeSolution.csprojAssemblyReference.cache
+C:\Phase 2\Batch 9\Day 2\MethodChallangeSolution\MethodChallangeSolution\obj\Debug\MethodChallangeSolution.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 9\Day 2\MethodChallangeSolution\MethodChallangeSolution\obj\Debug\MethodChallangeSolution.exe
+C:\Phase 2\Batch 9\Day 2\MethodChallangeSolution\MethodChallangeSolution\obj\Debug\MethodChallangeSolution.pdb
