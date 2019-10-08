@@ -1,0 +1,10 @@
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\obj\Debug\day-5.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\obj\Debug\day_5.NameForm.resources
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\obj\Debug\day_5.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\obj\Debug\day-5.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\obj\Debug\day-5.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\bin\Debug\day-5.exe.config
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\bin\Debug\day-5.exe
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\bin\Debug\day-5.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\obj\Debug\day-5.exe
+C:\Users\Web App Develop .Net\Desktop\anik\save Name inarray\day-5\obj\Debug\day-5.pdb
