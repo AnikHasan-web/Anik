@@ -1,0 +1,18 @@
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\bin\Debug\DictionaryUI.exe.config
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\bin\Debug\DictionaryUI.exe
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\bin\Debug\DictionaryUI.pdb
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.exe
+C:\Users\Web App Develop .Net\Desktop\28.11.2017\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.pdb
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\bin\Debug\DictionaryUI.exe.config
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.exe
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.pdb
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\bin\Debug\DictionaryUI.exe
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\bin\Debug\DictionaryUI.pdb
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.csprojResolveAssemblyReference.cache
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.Form1.resources
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.Properties.Resources.resources
+D:\dot net\basic theory\DictionaryUI\DictionaryUI\obj\Debug\DictionaryUI.csproj.GenerateResource.Cache
