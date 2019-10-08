@@ -1,0 +1,7 @@
+C:\Phase 2\Batch 9\Day 2\doWhile\doWhile\bin\Debug\doWhile.exe.config
+C:\Phase 2\Batch 9\Day 2\doWhile\doWhile\bin\Debug\doWhile.exe
+C:\Phase 2\Batch 9\Day 2\doWhile\doWhile\bin\Debug\doWhile.pdb
+C:\Phase 2\Batch 9\Day 2\doWhile\doWhile\obj\Debug\doWhile.csprojAssemblyReference.cache
+C:\Phase 2\Batch 9\Day 2\doWhile\doWhile\obj\Debug\doWhile.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 9\Day 2\doWhile\doWhile\obj\Debug\doWhile.exe
+C:\Phase 2\Batch 9\Day 2\doWhile\doWhile\obj\Debug\doWhile.pdb

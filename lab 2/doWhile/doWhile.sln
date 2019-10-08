@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doWhile", "doWhile\doWhile.csproj", "{D30184E1-0B51-4821-AB4C-CD80520C29EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30184E1-0B51-4821-AB4C-CD80520C29EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30184E1-0B51-4821-AB4C-CD80520C29EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30184E1-0B51-4821-AB4C-CD80520C29EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30184E1-0B51-4821-AB4C-CD80520C29EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B084677D-41FE-4703-A1AD-6EA51CCDAA6C}
+	EndGlobalSection
+EndGlobal
