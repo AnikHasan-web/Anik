@@ -1,0 +1,18 @@
+D:\dot net\anik\lab 6\H.W\H.W\bin\Debug\H.W.exe.config
+D:\dot net\anik\lab 6\H.W\H.W\obj\Debug\H.W.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 6\H.W\H.W\obj\Debug\H.W.BookInformationForm.resources
+D:\dot net\anik\lab 6\H.W\H.W\obj\Debug\H.W.Properties.Resources.resources
+D:\dot net\anik\lab 6\H.W\H.W\obj\Debug\H.W.csproj.GenerateResource.Cache
+D:\dot net\anik\lab 6\H.W\H.W\bin\Debug\H.W.exe
+D:\dot net\anik\lab 6\H.W\H.W\bin\Debug\H.W.pdb
+D:\dot net\anik\lab 6\H.W\H.W\obj\Debug\H.W.exe
+D:\dot net\anik\lab 6\H.W\H.W\obj\Debug\H.W.pdb
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\bin\Debug\H.W.exe.config
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\obj\Debug\H.W.exe
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\obj\Debug\H.W.pdb
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\bin\Debug\H.W.exe
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\bin\Debug\H.W.pdb
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\obj\Debug\H.W.csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\obj\Debug\H.W.BookInformationForm.resources
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\obj\Debug\H.W.Properties.Resources.resources
+D:\dot net\anik\lab 6\dictionary book Kepper\H.W\obj\Debug\H.W.csproj.GenerateResource.Cache
