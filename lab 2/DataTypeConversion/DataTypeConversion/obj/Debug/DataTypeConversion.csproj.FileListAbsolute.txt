@@ -1,0 +1,7 @@
+C:\Phase 2\Batch 9\Day 2\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.exe.config
+C:\Phase 2\Batch 9\Day 2\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.exe
+C:\Phase 2\Batch 9\Day 2\DataTypeConversion\DataTypeConversion\bin\Debug\DataTypeConversion.pdb
+C:\Phase 2\Batch 9\Day 2\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.csprojAssemblyReference.cache
+C:\Phase 2\Batch 9\Day 2\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 9\Day 2\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.exe
+C:\Phase 2\Batch 9\Day 2\DataTypeConversion\DataTypeConversion\obj\Debug\DataTypeConversion.pdb
