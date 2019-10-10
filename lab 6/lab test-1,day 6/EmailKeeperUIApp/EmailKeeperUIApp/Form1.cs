@@ -24,12 +24,16 @@ namespace EmailKeeperUIApp
              string contains = addEmailTextBox.Text;
              int count = 0;
 
-             if (contains.Contains("@"))
-             {
-                 count++;
-             }
+             foreach (char c in contains)
+                {
+                    if (c == '@')
+                    {
+                        count++;
+                    }
+                        
+                }
 
-             if (count <2 && contains.Contains("."))
+             if ((count ==1) && (contains.Contains(".")))
              {
                  emailList.Add(addEmailTextBox.Text);
                  searchEmailList.Add(addEmailTextBox.Text);
