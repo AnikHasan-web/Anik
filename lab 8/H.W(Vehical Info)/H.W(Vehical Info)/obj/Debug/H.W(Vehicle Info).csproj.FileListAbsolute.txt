@@ -1,0 +1,6 @@
+D:\dot net\anik\lab 8\H.W(Vehical Info)\H.W(Vehical Info)\obj\Debug\H.W(Vehicle Info).csprojResolveAssemblyReference.cache
+D:\dot net\anik\lab 8\H.W(Vehical Info)\H.W(Vehical Info)\bin\H.W(Vehical Info).dll.config
+D:\dot net\anik\lab 8\H.W(Vehical Info)\H.W(Vehical Info)\bin\H.W(Vehical Info).dll
+D:\dot net\anik\lab 8\H.W(Vehical Info)\H.W(Vehical Info)\bin\H.W(Vehical Info).pdb
+D:\dot net\anik\lab 8\H.W(Vehical Info)\H.W(Vehical Info)\obj\Debug\H.W(Vehical Info).dll
+D:\dot net\anik\lab 8\H.W(Vehical Info)\H.W(Vehical Info)\obj\Debug\H.W(Vehical Info).pdb
