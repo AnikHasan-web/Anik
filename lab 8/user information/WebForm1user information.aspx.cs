@@ -48,7 +48,7 @@ namespace user_information
 
 
             showLabel.Text = string.Empty;
-            showLabel.Text = "Student Info Saved";
+            showLabel.Text = "Student Info Found";
             showLabel.ForeColor = Color.Red;
         }
     }
