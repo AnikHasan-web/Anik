@@ -30,9 +30,9 @@ namespace user_information
             emailTextBox.Text = " ";
             ageTextBox.Text = " ";
 
-            //showLabel.Text = string.Empty;
-            //showLabel.Text = "Student Info Saved";
-            //showLabel.ForeColor = Color.Green;
+            showLabel.Text = string.Empty;
+            showLabel.Text = "Student Info Saved";
+            showLabel.ForeColor = Color.Green;
 
         }
 
@@ -47,9 +47,9 @@ namespace user_information
             Label12.Text = ViewState["age"].ToString();
 
 
-            //showLabel.Text = string.Empty;
-            //showLabel.Text = "Student Info Saved";
-            //showLabel.ForeColor = Color.Red;
+            showLabel.Text = string.Empty;
+            showLabel.Text = "Student Info Saved";
+            showLabel.ForeColor = Color.Red;
         }
     }
 }
