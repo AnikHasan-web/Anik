@@ -1,0 +1,7 @@
+C:\Users\Web App Develop .Net\Desktop\anik\day-9\oopBasic\bin\Debug\oopBasic.exe.config
+C:\Users\Web App Develop .Net\Desktop\anik\day-9\oopBasic\bin\Debug\oopBasic.exe
+C:\Users\Web App Develop .Net\Desktop\anik\day-9\oopBasic\bin\Debug\oopBasic.pdb
+C:\Users\Web App Develop .Net\Desktop\anik\day-9\oopBasic\obj\Debug\oopBasic.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\anik\day-9\oopBasic\obj\Debug\oopBasic.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Desktop\anik\day-9\oopBasic\obj\Debug\oopBasic.exe
+C:\Users\Web App Develop .Net\Desktop\anik\day-9\oopBasic\obj\Debug\oopBasic.pdb
